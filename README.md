@@ -1,4 +1,4 @@
-# Codec-MATLAB
+
 # Codec-MATLAB
 
 Application developed in MATLAB for encoding and processing:
